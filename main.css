@@ -3,7 +3,7 @@ body{
     margin: 0;
     background-color: #E5E5E5;
 }
-#skip{
+.orange-color{
     color: orange;
 }
 section{
@@ -85,5 +85,10 @@ p{
     font-size: 40px;
     font-weight: bold;
 }
-
+footer{
+    background-color: black;
+    color: rgb(224, 214, 214);
+    text-align: center;
+    padding: 2%;
+}
 
