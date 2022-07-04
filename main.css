@@ -1,5 +1,6 @@
 body{
     font-family: 'Montserrat', sans-serif;
+    margin: 0;
 }
 #skip{
     color: orange;
@@ -9,6 +10,7 @@ section{
 }
 .fifty-fifty{
     width: 50%;
+    align-self: center;
 }
 h1{
     font-size: 45px;
@@ -31,13 +33,24 @@ div img{
     font-weight: 500;
     color: white;
     font-size: 20px;
-    
-
 }
 div p{
     margin-bottom: 50px;
 }
-.sec-one{
-    background-image: url(images/);
+.sec-two{
+    background-image: url(images/shapes/7.png);
+    background-repeat: no-repeat;
+    background-position: center;
+    background-size: 100%;
+  
 }
-
+.about-sec{
+    margin: 11.5%;
+}
+#my-recipies{
+    text-align: center;
+    margin: 2% 25%;
+}
+p{
+    font-size: 18px;
+}
