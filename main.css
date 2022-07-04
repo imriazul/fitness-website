@@ -1,6 +1,7 @@
 body{
     font-family: 'Montserrat', sans-serif;
     margin: 0;
+    background-color: #E5E5E5;
 }
 #skip{
     color: orange;
@@ -11,20 +12,26 @@ section{
 .fifty-fifty{
     width: 50%;
     align-self: center;
+    margin: 8%;
 }
 h1{
     font-size: 45px;
     font-weight: bold;
+    color: rgb(66, 65, 65);
+}
+h2{
+    color: rgb(66, 65, 65);
+}
+h3{
+    font-weight: bolder;
+    color: black;
 }
 div img{
     width: 90%;
     height: auto;
     margin-top: 50px;
 }
-.text-deco{
-    margin-left: 100px;
-    margin-top: 100px;
-}
+
 .button-design{
     text-decoration: none;
     padding: 20px 50px;
@@ -54,3 +61,29 @@ div p{
 p{
     font-size: 18px;
 }
+.res-item{
+    margin: 8%;
+    background-color: white;
+    border-radius: 15px;
+    text-align: center;
+}
+.r-p{
+    margin: 20px;
+}
+#social{
+    margin: 8%;
+    background-color: white;
+    border-radius: 15px;
+    padding: 10px 20px;
+    text-align: center;
+}
+.one-third{
+    width: 33.33%;
+    padding: 3%;
+}
+.ss{
+    font-size: 40px;
+    font-weight: bold;
+}
+
+
